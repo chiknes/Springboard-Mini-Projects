@@ -1,0 +1,65 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 02:52:23.819 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 02:52:23.830 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 02:52:23.855 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+/usr/local/anaconda/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+[I 02:52:25.403 NotebookApp] jupyter_tensorboard extension loaded.
+[I 02:52:25.406 NotebookApp] Serving notebooks from local directory: /
+[I 02:52:25.407 NotebookApp] 0 active kernels 
+[I 02:52:25.407 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.4:8888/
+[I 02:52:25.407 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 02:52:25.458 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.125.128) 1.88ms
+[I 02:52:28.365 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.125.128) 1.22ms
+[I 02:52:28.770 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.125.128) 1.25ms
+[I 02:52:29.538 NotebookApp] 302 GET / (10.0.148.12) 0.54ms
+[I 02:52:29.559 NotebookApp] 302 GET / (10.0.148.12) 0.36ms
+[I 02:52:33.355 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 02:52:33.356 NotebookApp] Notebook mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb is not trusted
+[I 02:52:34.506 NotebookApp] Kernel started: 8380c4e2-50f6-46ef-b370-592e79ed9689
+[I 02:52:35.694 NotebookApp] Adapting to protocol v5.1 for kernel 8380c4e2-50f6-46ef-b370-592e79ed9689
+[I 03:06:35.246 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:08:35.379 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:10:35.392 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:12:35.282 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:14:35.419 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:16:35.004 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:18:34.933 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:20:35.047 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:22:35.037 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:24:35.109 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:26:35.048 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:28:34.880 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:30:34.855 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:32:34.977 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:34:34.835 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 03:36:34.946 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[W 03:53:35.697 NotebookApp] WebSocket ping timeout after 119911 ms.
+[I 04:25:47.073 NotebookApp] Adapting to protocol v5.1 for kernel 8380c4e2-50f6-46ef-b370-592e79ed9689
+[I 04:26:34.783 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:28:34.901 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:30:35.869 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:34:35.002 NotebookApp] 302 GET / (10.0.148.12) 0.51ms
+[I 04:34:35.232 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:36:34.935 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:38:35.028 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:40:34.884 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:42:34.872 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:44:34.949 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:46:35.166 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:48:35.224 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:50:34.880 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:54:35.157 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:56:35.145 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 04:58:34.965 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:00:35.295 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:02:34.895 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:04:34.973 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:10:35.135 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:12:35.987 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:14:34.996 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:16:35.408 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:18:35.085 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[I 05:20:35.019 NotebookApp] Saving file at /mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb
+[W 06:03:17.075 NotebookApp] WebSocket ping timeout after 119932 ms.
