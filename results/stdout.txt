@@ -1,143 +1,20 @@
 [TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
 [TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
-[I 18:58:05.298 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
-[I 18:58:05.619 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
-[W 18:58:05.766 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+[I 00:21:47.688 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 00:21:47.697 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 00:21:47.721 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
 /usr/local/anaconda/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
   return f(*args, **kwds)
-[I 18:58:35.779 NotebookApp] jupyter_tensorboard extension loaded.
-[I 18:58:35.784 NotebookApp] Serving notebooks from local directory: /
-[I 18:58:35.784 NotebookApp] 0 active kernels 
-[I 18:58:35.784 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.3:8888/
-[I 18:58:35.784 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
-[W 18:58:35.785 NotebookApp] No web browser found: could not locate runnable browser.
-[I 18:58:35.787 NotebookApp] 302 GET / (10.0.148.12) 0.56ms
-[I 18:58:35.787 NotebookApp] 302 GET / (10.0.148.12) 0.35ms
-[I 18:58:35.788 NotebookApp] 302 GET / (10.0.148.12) 0.33ms
-[I 18:58:39.036 NotebookApp] 302 GET / (10.0.125.128) 0.52ms
-[I 18:58:39.041 NotebookApp] 302 GET / (10.0.125.128) 0.38ms
-[I 18:58:39.155 NotebookApp] 302 GET / (10.0.125.128) 0.54ms
-[I 18:58:39.570 NotebookApp] 302 GET / (10.0.125.128) 0.54ms
-[I 18:58:39.644 NotebookApp] 302 GET / (10.0.125.128) 0.54ms
-[I 18:58:39.717 NotebookApp] 302 GET / (10.0.125.128) 0.56ms
-[I 18:58:39.789 NotebookApp] 302 GET / (10.0.125.128) 0.52ms
-[I 18:58:39.862 NotebookApp] 302 GET / (10.0.125.128) 0.47ms
-[I 18:58:39.979 NotebookApp] 302 GET / (10.0.148.12) 0.42ms
-[I 18:58:40.050 NotebookApp] 302 GET / (10.0.125.128) 0.54ms
-[I 18:58:40.123 NotebookApp] 302 GET / (10.0.125.128) 0.57ms
-[I 18:58:40.202 NotebookApp] 302 GET / (10.0.125.128) 0.43ms
-[I 18:58:40.459 NotebookApp] 302 GET / (10.0.125.128) 0.43ms
-[I 18:58:40.538 NotebookApp] 302 GET / (10.0.148.12) 0.54ms
-[I 18:58:40.613 NotebookApp] 302 GET / (10.0.148.12) 0.55ms
-[I 18:58:40.686 NotebookApp] 302 GET / (10.0.148.12) 0.51ms
-[I 18:58:40.755 NotebookApp] 302 GET / (10.0.125.128) 0.52ms
-[I 18:58:40.835 NotebookApp] 302 GET / (10.0.125.128) 0.44ms
-[I 18:58:40.943 NotebookApp] 302 GET / (10.0.125.128) 0.48ms
-[I 18:58:41.123 NotebookApp] 302 GET / (10.0.125.128) 0.50ms
-[I 18:58:41.229 NotebookApp] 302 GET / (10.0.125.128) 0.39ms
-[I 18:58:41.340 NotebookApp] 302 GET / (10.0.125.128) 0.40ms
-[I 18:59:22.103 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
-[W 18:59:22.104 NotebookApp] Notebook mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb is not trusted
-[I 18:59:23.404 NotebookApp] Kernel started: fcb9e116-5deb-49c8-b876-909a22beb96c
-2019-07-26 18:59:29 WARN  NativeCodeLoader:62 - Unable to load native-hadoop library for your platform... using builtin-java classes where applicable
-Setting default log level to "WARN".
-To adjust logging level use sc.setLogLevel(newLevel). For SparkR, use setLogLevel(newLevel).
-[W 18:59:33.632 NotebookApp] Timeout waiting for kernel_info reply from fcb9e116-5deb-49c8-b876-909a22beb96c
-[I 18:59:35.015 NotebookApp] Adapting to protocol v5.1 for kernel fcb9e116-5deb-49c8-b876-909a22beb96c
-2019-07-26 19:00:30 WARN  ObjectStore:568 - Failed to get database global_temp, returning NoSuchObjectException
-2019-07-26 19:00:44 WARN  InMemoryFileIndex:66 - The directory file:/mnt/unit-3-sql-with-spark/spark-warehouse/country_club.db/bookings was not found. Was it deleted very recently?
-2019-07-26 19:00:44 WARN  InMemoryFileIndex:66 - The directory file:/mnt/unit-3-sql-with-spark/spark-warehouse/country_club.db/facilities was not found. Was it deleted very recently?
-2019-07-26 19:00:44 WARN  InMemoryFileIndex:66 - The directory file:/mnt/unit-3-sql-with-spark/spark-warehouse/country_club.db/members was not found. Was it deleted very recently?
-2019-07-26 19:00:56 WARN  ObjectStore:568 - Failed to get database country_club, returning NoSuchObjectException
-[I 19:01:23.840 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:03:23.761 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:09:23.898 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-2019-07-26 19:12:21 WARN  ObjectStore:568 - Failed to get database country_club, returning NoSuchObjectException
-[Stage 42:>                                                         (0 + 1) / 1]                                                                                [I 19:13:24.204 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:15:23.852 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:17:24.795 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:19:23.904 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:21:23.710 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:23:23.777 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:25:23.780 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:27:23.940 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:29:24.091 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:31:23.788 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:33:24.271 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:35:23.936 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:37:24.141 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:39:24.134 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:43:23.708 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:45:23.788 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[Stage 110:=========================================>           (155 + 6) / 200]                                                                                [I 19:47:23.781 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:49:23.797 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[Stage 127:================================================>    (184 + 4) / 200]                                                                                [I 19:51:23.689 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:55:23.764 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:57:23.983 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 19:59:24.062 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:01:24.297 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:03:23.656 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:05:24.202 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:07:23.977 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:09:24.260 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:11:24.186 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:15:23.798 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:17:24.219 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:19:23.942 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 20:21:24.358 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[W 20:39:03.634 NotebookApp] WebSocket ping timeout after 119929 ms.
-[I 23:14:29.698 NotebookApp] 302 GET / (10.0.125.128) 0.51ms
-[W 23:22:29.706 NotebookApp] WebSocket ping timeout after 119930 ms.
-[I 23:36:40.269 NotebookApp] 302 GET / (10.0.148.12) 0.50ms
-[W 23:41:10.277 NotebookApp] WebSocket ping timeout after 119933 ms.
-[I 23:53:02.330 NotebookApp] 302 GET / (10.0.125.128) 0.53ms
-[I 23:53:02.548 NotebookApp] 302 GET / (10.0.125.128) 0.52ms
-[I 23:57:28.903 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:09:28.610 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:15:28.522 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:17:28.599 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:21:29.957 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:23:28.472 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:25:28.460 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:27:28.859 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:29:29.880 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:33:28.709 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:35:29.744 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[Stage 272:===================================================> (194 + 5) / 200]                                                                                [I 00:37:28.410 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[Stage 295:=============================================>       (172 + 4) / 200]                                                                                [I 00:39:28.451 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:41:29.167 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 00:43:29.436 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[W 00:46:28.621 NotebookApp] WebSocket ping timeout after 119552 ms.
-[I 06:44:48.017 NotebookApp] 302 GET / (10.0.148.12) 0.50ms
-[I 06:44:49.632 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 06:44:49.913 NotebookApp] 302 GET / (10.0.125.128) 0.47ms
-[W 06:46:19.923 NotebookApp] WebSocket ping timeout after 90002 ms.
-[I 08:17:27.931 NotebookApp] 302 GET / (10.0.125.128) 0.75ms
-[I 08:17:28.545 NotebookApp] 302 GET / (10.0.148.12) 0.62ms
-[W 08:35:27.939 NotebookApp] WebSocket ping timeout after 119933 ms.
-[I 14:33:49.541 NotebookApp] 302 GET / (10.0.125.128) 0.49ms
-[W 14:35:19.550 NotebookApp] WebSocket ping timeout after 90002 ms.
-[I 16:51:52.384 NotebookApp] 302 GET / (10.0.148.12) 0.50ms
-[I 16:51:55.356 NotebookApp] 302 GET / (10.0.148.12) 0.56ms
-[I 16:51:55.512 NotebookApp] 302 GET / (10.0.148.12) 0.57ms
-[I 16:51:56.154 NotebookApp] 302 GET / (10.0.125.128) 0.54ms
-[I 16:56:03.824 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 16:56:36.113 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 16:58:04.471 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:00:04.502 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:02:03.714 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:04:03.821 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:06:03.794 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:08:03.754 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:10:03.730 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:12:03.899 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:14:03.671 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:16:03.688 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:20:03.817 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:22:03.755 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:24:03.778 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:26:03.790 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:28:04.006 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:30:03.739 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:32:03.810 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
-[I 17:34:03.761 NotebookApp] Saving file at /mnt/aic-5_6_6-sql-at-scale-with-spark-mini-project/Mini_Project_SQL_with_Spark.ipynb
+[I 00:21:49.226 NotebookApp] jupyter_tensorboard extension loaded.
+[I 00:21:49.229 NotebookApp] Serving notebooks from local directory: /
+[I 00:21:49.229 NotebookApp] 0 active kernels 
+[I 00:21:49.229 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.4:8888/
+[I 00:21:49.229 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 00:21:49.751 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.125.128) 1.91ms
+[I 00:21:52.697 NotebookApp] 302 GET / (10.0.148.12) 0.48ms
+[I 00:21:52.715 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.148.12) 0.87ms
+[I 00:21:53.199 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_2_8_tree-based-algorithms-mini-project%2FMini_Project_Tree-Based_Algorithms.ipynb (10.0.148.12) 1.16ms
+[I 00:21:55.879 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 00:21:55.881 NotebookApp] Notebook mnt/aic-8_2_8_tree-based-algorithms-mini-project/Mini_Project_Tree-Based_Algorithms.ipynb is not trusted
+[I 00:21:57.952 NotebookApp] Kernel started: 7dfe5a68-1642-4ff2-9174-1e212fb79ed2
+[I 00:21:59.056 NotebookApp] Adapting to protocol v5.1 for kernel 7dfe5a68-1642-4ff2-9174-1e212fb79ed2

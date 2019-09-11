@@ -1,0 +1,24 @@
+[TerminalIPythonApp] WARNING | Subcommand `ipython notebook` is deprecated and will be removed in future versions.
+[TerminalIPythonApp] WARNING | You likely want to use `jupyter notebook` in the future
+[I 17:45:12.371 NotebookApp] Copying /home/ubuntu/.ipython/profile_default/static/custom/custom.js -> /home/ubuntu/.jupyter/custom/custom.js
+[I 17:45:12.380 NotebookApp] Writing notebook server cookie secret to /home/ubuntu/.local/share/jupyter/runtime/notebook_cookie_secret
+[W 17:45:12.405 NotebookApp] All authentication is disabled.  Anyone who can connect to this server will be able to run code.
+/usr/local/anaconda/lib/python3.6/importlib/_bootstrap.py:205: RuntimeWarning: compiletime version 3.5 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.6
+  return f(*args, **kwds)
+[I 17:45:13.924 NotebookApp] jupyter_tensorboard extension loaded.
+[I 17:45:13.927 NotebookApp] Serving notebooks from local directory: /
+[I 17:45:13.927 NotebookApp] 0 active kernels 
+[I 17:45:13.927 NotebookApp] The Jupyter Notebook is running at: http://172.17.0.9:8888/
+[I 17:45:13.927 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:45:14.556 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_1_3-linear-regression-mini-project%2FMini_Project_Linear_Regression.ipynb (10.0.125.128) 1.90ms
+[I 17:45:17.705 NotebookApp] 302 GET / (10.0.148.12) 0.58ms
+[I 17:45:17.723 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_1_3-linear-regression-mini-project%2FMini_Project_Linear_Regression.ipynb (10.0.148.12) 0.86ms
+[I 17:45:17.898 NotebookApp] 302 GET /tree/%2Fmnt%2Faic-8_1_3-linear-regression-mini-project%2FMini_Project_Linear_Regression.ipynb (10.0.148.12) 0.88ms
+[I 17:45:19.934 NotebookApp] Writing notebook-signing key to /home/ubuntu/.local/share/jupyter/notebook_secret
+[W 17:45:19.941 NotebookApp] Notebook mnt/aic-8_1_3-linear-regression-mini-project/Mini_Project_Linear_Regression.ipynb is not trusted
+[I 17:45:28.201 NotebookApp] 302 GET /notebooks/mnt/aic-8_1_3-linear-regression-mini-project/images/conditionalmean.png (10.0.125.128) 1.55ms
+[I 17:45:28.295 NotebookApp] Kernel started: b8434fa3-122b-4486-a133-2bce3c82e10a
+[I 17:45:29.433 NotebookApp] Adapting to protocol v5.1 for kernel b8434fa3-122b-4486-a133-2bce3c82e10a
+[W 17:47:51.192 NotebookApp] 404 GET /static/components/MathJax/fonts/HTML-CSS/TeX/otf/MathJax_Script-Regular.otf (10.0.148.12) 12.79ms referer=https://5d680f1ec9e77c0007bf8fd1-workspace.trial.dominodatalab.com/notebooks/mnt/aic-8_1_3-linear-regression-mini-project/Mini_Project_Linear_Regression.ipynb
+[I 17:49:29.017 NotebookApp] Saving file at /mnt/aic-8_1_3-linear-regression-mini-project/Mini_Project_Linear_Regression.ipynb
+[W 17:49:29.020 NotebookApp] Saving untrusted notebook mnt/aic-8_1_3-linear-regression-mini-project/Mini_Project_Linear_Regression.ipynb
